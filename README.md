@@ -11,15 +11,15 @@
 ## Autores
 <br>
 <br>
-|[<img src = "https://avatars.githubusercontent.com/u/116188859?s=400&u=da2746e27e04d9642dae0f71051d89eb96f02791&v=4"width=100>
-<br>
-<sub>Lázaro Cristian Cárdenas García</sub>]|(https://github.com/LachoCardenas44)
-<br>
-|[<img src = "https://avatars.githubusercontent.com/u/109447884?v=4"width=100>
-<br>
-<sub>Victor Manuel Calderín Gamez</sub>]|(https://github.com/vmcalderingamez)]
+<img src = "https://avatars.githubusercontent.com/u/116188859?s=400&u=da2746e27e04d9642dae0f71051d89eb96f02791&v=4"width=100>
 
-<h2 align="center">Módulo a desarrollar por LachoCardenas44 :link:(https://github.com/LachoCardenas44):link:</h2>
+<sub>Lázaro Cristian Cárdenas García</sub>(https://github.com/LachoCardenas44)
+<br>
+<img src = "https://avatars.githubusercontent.com/u/109447884?v=4"width=100>
+
+<sub>Victor Manuel Calderín Gamez</sub>(https://github.com/vmcalderingamez)]
+
+<h2 align="center">Módulo a desarrollar por LachoCardenas44 :link:(https://github.com/LachoCardenas44) :link:</h2>
 <br>
 [Imagen del módulo (UML)](<img src = "https://github.com/LachoCardenas44/GestionAlmacen.VisualParadigm/blob/main/modulos/Modulo%20LazaroCardenas44.jpg">)
 <br>
